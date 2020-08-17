@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">TravelBuddy</string>
+    <string name="sendRequest">Get Data</string>
+    <string name="welcome">Welcome!</string>
+    <string name="enter_address">Enter your address</string>
+    <string name="enter_destination">Enter destination city</string>
+    <string name="origin">Enter origin airport</string>
+    <string name="destination">Enter destination airport</string>
+    <string name="send_data">Explore!</string>
 </resources>
